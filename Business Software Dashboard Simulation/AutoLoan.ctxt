@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=v\ d\ lr\ ry\ rm\ ir\ ra\ mr\ ppsf
+comment0.target=AutoLoan(double,\ double,\ double,\ int,\ int,\ double,\ double,\ double,\ double)
+comment1.params=ry
+comment1.target=AutoLoan(int)
+comment2.params=
+comment2.target=double\ calcInterestRate()
+numComments=3

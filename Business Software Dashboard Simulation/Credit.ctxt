@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=v\ d\ lr\ ry\ rm\ ir\ ra\ mr\ ppsf
+comment0.target=Credit(double,\ double,\ double,\ int,\ int,\ double,\ double,\ double,\ double)
+comment1.params=ry
+comment1.target=Credit(int)
+comment10.params=
+comment10.target=double\ calcProfitPerSaleForecast()
+comment2.params=lr\ rm\ ir\ ra\ mr\ ppsf
+comment2.target=Credit(double,\ int,\ double,\ double,\ double,\ double)
+comment3.params=
+comment3.target=double\ getValue()
+comment4.params=
+comment4.target=double\ getDeposit()
+comment5.params=
+comment5.target=double\ calcLoanRequired()
+comment6.params=
+comment6.target=int\ calcRepaymentMonths()
+comment7.params=
+comment7.target=double\ calcInterestRate()
+comment8.params=
+comment8.target=double\ calcRepaymentAmount()
+comment9.params=
+comment9.target=double\ calcMonthlyRepayment()
+numComments=11

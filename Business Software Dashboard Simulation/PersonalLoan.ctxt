@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=lr\ rm\ ir\ ra\ mr\ ppsf
+comment0.target=PersonalLoan(double,\ int,\ double,\ double,\ double,\ double)
+comment1.params=rm
+comment1.target=PersonalLoan(int)
+comment2.params=
+comment2.target=double\ calcInterestRate()
+numComments=3
